@@ -188,7 +188,7 @@ The next step is to use the Azure Data Factory to create a pipeline to extract t
 
     ![Screenshot creating an Azure Data Factory](./Images/adfv2-setup-01.png)
 
-1. Once the Azure Data Factory resource is created, select the **Author & Monitor** tile to launch the Azure Data Factory full screen editor.
+1. Once the Azure Data Factory resource is created, select the **Author & Monitor** tile to launch the Azure Data Factory full screen editor. (If this wont open on Edge, try using a different browser)
 
     ![Screenshot of the Azure Data Factory](./Images/adfv2-setup-02.png)
 
